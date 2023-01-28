@@ -1,0 +1,35 @@
+body {
+    background-color: deepskyblue;
+}
+
+
+.heading {
+    font-size: large;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 1px;
+    box-shadow: 15px 15px 30px grey;
+}
+
+.note {
+    font-size: 20px;
+    color: black;
+}
+.copy_right_footer {
+    position: fixed;
+    font-size: larger;
+    color: darkblue;
+    bottom: 5;
+    width: 100%;
+    background-color: rgb(56, 251, 8);
+    line-height: 5;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+canvas {
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 20px 20px 30px grey;
+
+}
